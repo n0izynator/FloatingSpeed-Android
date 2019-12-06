@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Floating Speed</string>
+    <string name="unitKMH" translatable="false">KM/H</string>
+    <string name="unitMPH" translatable="false">MPH</string>
+    <string name="velo" translatable="false">105</string>
+    <string name="switchMPH">Set units to MPH</string>
+    <string name="buttonCREATE">Create floating speedometer</string>
+</resources>
